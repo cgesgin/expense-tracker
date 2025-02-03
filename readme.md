@@ -3,7 +3,7 @@ This project is a simple command-line application designed to help users track t
 
 The goal of this project is to help users manage their finances by providing a quick and easy way to track their spending through a command-line interface. For more information and details on how to contribute, you can check this link: 
 
-        https://roadmap.sh/projects/github-user-activity
+        https://roadmap.sh/projects/expense-tracker
 
 ## 🔍 Features
 - ✅ Add an expense with a description and amount
