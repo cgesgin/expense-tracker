@@ -1,9 +1,5 @@
 # 🎯 Overview
-This project is a simple command-line application designed to help users track their expenses. The application allows users to add, delete, update, and view their expenses. It also provides summaries of expenses, both in total and for a specific month.
-
-The goal of this project is to help users manage their finances by providing a quick and easy way to track their spending through a command-line interface. For more information and details on how to contribute, you can check this link: 
-
-        https://roadmap.sh/projects/expense-tracker
+Solution to the roadmap.sh project https://roadmap.sh/projects/expense-tracker
 
 ## 🔍 Features
 - ✅ Add an expense with a description and amount
